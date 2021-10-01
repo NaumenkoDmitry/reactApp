@@ -1,0 +1,18 @@
+.ButtWatch {
+  background-color: black;
+  color: white;
+  margin: 10px;
+}
+.ButtWatch:hover {
+  background-color: green;
+}
+.container {
+  background-color: darkgrey;
+  border: 20px double blue;
+  color: red;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
